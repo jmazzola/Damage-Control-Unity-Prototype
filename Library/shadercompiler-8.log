@@ -1,9 +1,0 @@
-Base path: F:/Cracked Unity 4.6/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-8-22620
-Cmd: getPlatforms
-Cmd: compileSnippet
-  api=0 type=1 insize=864 outsize=178 kw= ok=1
-Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
-
-
-Quitting shader compiler process
