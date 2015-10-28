@@ -1,0 +1,22 @@
+Initialize engine version: 4.6.0f3 (30840d631a27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD FirePro M4000 (FireGL V) (ID=0x682d)
+    Vendor:   ATI
+    VRAM:     1006 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Dropbox\Fullsail Backup\Final Project\PerforceWork\Studios\1506 - include studio\Corrupted Works\Month One\Prototype 2\DamageControlPrototype\Build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Dropbox\Fullsail Backup\Final Project\PerforceWork\Studios\1506 - include studio\Corrupted Works\Month One\Prototype 2\DamageControlPrototype\Build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Dropbox\Fullsail Backup\Final Project\PerforceWork\Studios\1506 - include studio\Corrupted Works\Month One\Prototype 2\DamageControlPrototype\Build_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\Dropbox\Fullsail Backup\Final Project\PerforceWork\Studios\1506 - include studio\Corrupted Works\Month One\Prototype 2\DamageControlPrototype\Build_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Dropbox\Fullsail Backup\Final Project\PerforceWork\Studios\1506 - include studio\Corrupted Works\Month One\Prototype 2\DamageControlPrototype\Build_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading F:\Dropbox\Fullsail Backup\Final Project\PerforceWork\Studios\1506 - include studio\Corrupted Works\Month One\Prototype 2\DamageControlPrototype\Build_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Dropbox\Fullsail Backup\Final Project\PerforceWork\Studios\1506 - include studio\Corrupted Works\Month One\Prototype 2\DamageControlPrototype\Build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Dropbox\Fullsail Backup\Final Project\PerforceWork\Studios\1506 - include studio\Corrupted Works\Month One\Prototype 2\DamageControlPrototype\Build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.079 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: F:\Dropbox\Fullsail Backup\Final Project\PerforceWork\Studios\1506 - include studio\Corrupted Works\Month One\Prototype 2\DamageControlPrototype\Build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Dropbox\Fullsail Backup\Final Project\PerforceWork\Studios\1506 - include studio\Corrupted Works\Month One\Prototype 2\DamageControlPrototype\Build_Data\Managed\System.dll (this message is harmless)

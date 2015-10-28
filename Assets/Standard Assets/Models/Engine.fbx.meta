@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 5838a71c7a056db4b8530199cc2c5dd8
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: EngineHull
+    100004: EngineThruster
+    100006: EngineThruster1
+    100008: EngineThruster2
+    100010: EngineThrusterHull
+    100012: EngineThrusterHull1
+    100014: EngineThrusterHull2
+    100016: EngineThrusterPowerLine
+    100018: EngineThrusterPowerLine1
+    100020: EngineThrusterPowerLine2
+    100022: EngineThrusterPowerLine3
+    100024: left
+    100026: MainFuelLines
+    100028: MainFuelLines1
+    100030: MainFuelLines2
+    100032: MainFuelLines3
+    100034: pCylinder14
+    400000: //RootNode
+    400002: EngineHull
+    400004: EngineThruster
+    400006: EngineThruster1
+    400008: EngineThruster2
+    400010: EngineThrusterHull
+    400012: EngineThrusterHull1
+    400014: EngineThrusterHull2
+    400016: EngineThrusterPowerLine
+    400018: EngineThrusterPowerLine1
+    400020: EngineThrusterPowerLine2
+    400022: EngineThrusterPowerLine3
+    400024: left
+    400026: MainFuelLines
+    400028: MainFuelLines1
+    400030: MainFuelLines2
+    400032: MainFuelLines3
+    400034: pCylinder14
+    2300000: EngineHull
+    2300002: EngineThruster
+    2300004: EngineThruster1
+    2300006: EngineThruster2
+    2300008: EngineThrusterHull
+    2300010: EngineThrusterHull1
+    2300012: EngineThrusterHull2
+    2300014: EngineThrusterPowerLine
+    2300016: EngineThrusterPowerLine1
+    2300018: EngineThrusterPowerLine2
+    2300020: EngineThrusterPowerLine3
+    2300022: MainFuelLines
+    2300024: MainFuelLines1
+    2300026: MainFuelLines2
+    2300028: MainFuelLines3
+    2300030: pCylinder14
+    3300000: EngineHull
+    3300002: EngineThruster
+    3300004: EngineThruster1
+    3300006: EngineThruster2
+    3300008: EngineThrusterHull
+    3300010: EngineThrusterHull1
+    3300012: EngineThrusterHull2
+    3300014: EngineThrusterPowerLine
+    3300016: EngineThrusterPowerLine1
+    3300018: EngineThrusterPowerLine2
+    3300020: EngineThrusterPowerLine3
+    3300022: MainFuelLines
+    3300024: MainFuelLines1
+    3300026: MainFuelLines2
+    3300028: MainFuelLines3
+    3300030: pCylinder14
+    4300000: EngineHull
+    4300002: EngineThruster
+    4300004: EngineThruster1
+    4300006: EngineThruster2
+    4300008: EngineThrusterHull
+    4300010: EngineThrusterHull1
+    4300012: EngineThrusterHull2
+    4300014: MainFuelLines
+    4300016: pCylinder14
+    4300018: MainFuelLines2
+    4300020: MainFuelLines3
+    4300022: MainFuelLines1
+    4300024: EngineThrusterPowerLine1
+    4300026: EngineThrusterPowerLine
+    4300028: EngineThrusterPowerLine3
+    4300030: EngineThrusterPowerLine2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

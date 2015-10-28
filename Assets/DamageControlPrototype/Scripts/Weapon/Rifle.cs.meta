@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ca96955e231e2c240b32b05b862bd5cf
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bullet_Tier_0: {fileID: 100002, guid: 5856dc3763f6d5f4188243544d49c5ef, type: 2}
+  - bullet_Tier_1: {instanceID: 0}
+  - bullet_Tier_2: {instanceID: 0}
+  - bullet_Tier_3: {instanceID: 0}
+  - bullet_Tier_4: {instanceID: 0}
+  - bullet_Tier_5: {instanceID: 0}
+  - bullet_Tier_6: {instanceID: 0}
+  - bullet_Tier_7: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
